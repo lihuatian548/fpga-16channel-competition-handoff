@@ -1,0 +1,187 @@
+{
+  "schema": "fpga16-version-index-v1",
+  "prepared_date_client": "2026-10-28",
+  "candidate": {
+    "round": 8,
+    "revision": "R2_registered_FIFO_reset",
+    "build_attempt": "vivado_build_04",
+    "actual_build_date": "2026-10-24",
+    "evidence_closure_date": "2026-10-25",
+    "artifacts": [
+      {
+        "label": "PL bit",
+        "r9_bundle_locator": "bundle/artifacts/candidate_PL.bit",
+        "original_locator": "${WORKSPACE}/work/round8/vivado_export_04/candidate.bit",
+        "bytes": 4045674,
+        "sha256": "74964dcb60c29b0978d11479876fcb99f7f9d304cbf6d08cd275c2246899fc4f",
+        "board_execution_evidence": "NOT_AVAILABLE",
+        "included_in_documentation_upload": false
+      },
+      {
+        "label": "硬件交接HDF",
+        "r9_bundle_locator": "bundle/artifacts/candidate_hardware.hdf",
+        "original_locator": "${WORKSPACE}/work/round8/vivado_export_04/candidate.hdf",
+        "bytes": 918032,
+        "sha256": "a783588d88887d7ebc4a35d4bf700f163ed55da6889727dc93447ec45a5949b9",
+        "board_execution_evidence": "NOT_AVAILABLE",
+        "included_in_documentation_upload": false
+      },
+      {
+        "label": "PS应用ELF",
+        "r9_bundle_locator": "bundle/artifacts/candidate_PS.elf",
+        "original_locator": "${WORKSPACE}/work/round8/ps_fix/arm_build/6236A_candidate.elf",
+        "bytes": 1028212,
+        "sha256": "004f9a1c86e98213717ee904aba9780dfa571f3af29a5dc07d736c7f827ad5e3",
+        "board_execution_evidence": "NOT_AVAILABLE",
+        "included_in_documentation_upload": false
+      },
+      {
+        "label": "启动候选BOOT",
+        "r9_bundle_locator": "bundle/artifacts/candidate_BOOT.bin",
+        "original_locator": "${WORKSPACE}/work/round8/release_candidate_04/candidate_BOOT.bin",
+        "bytes": 4264528,
+        "sha256": "3146227ea34b5d34fb90fc533497fd25a92f06211fd0bdd56ad8165e172ac0a9",
+        "board_execution_evidence": "NOT_AVAILABLE",
+        "included_in_documentation_upload": false
+      },
+      {
+        "label": "硬件定义",
+        "r9_bundle_locator": "bundle/artifacts/candidate.hwdef",
+        "original_locator": "${WORKSPACE}/work/round8/vivado_export_04/candidate.hwdef",
+        "bytes": 448444,
+        "sha256": "fd5d8014e8ed1dcb5e8af5dada13da1ea2c2c044b199cd20770f4b900ea12e74",
+        "board_execution_evidence": "NOT_AVAILABLE",
+        "included_in_documentation_upload": false
+      },
+      {
+        "label": "复用FSBL",
+        "r9_bundle_locator": "bundle/artifacts/reuse_FSBL.elf",
+        "original_locator": "${WORKSPACE}/work/round8/release_candidate_04/reuse_FSBL.elf",
+        "bytes": 459548,
+        "sha256": "644089f3cd1b0b40a93a67ca976313a51e980761b200a2f12f4f47ad05f3d2ff",
+        "board_execution_evidence": "NOT_AVAILABLE",
+        "included_in_documentation_upload": false
+      }
+    ],
+    "final_pl_sources": {
+      "rx_board_data.v": "d39bb0a395f3b13a2ededeef09e827e655a3f4f2a199bf11550039e5d78c824b",
+      "MSXBO_FDMA_v1_0_M00_AXI.v": "3c4d91fc6e048c8eed8e330746ad108a57047815a08faed4ed28fad8dd15ae9b",
+      "ad7768.v": "095c31cf33cc5d234f11438c1b4ffc9d219ed91ce520e65e61af57d6cb483544"
+    },
+    "fsbl_rebuilt": false,
+    "bsp_rebuilt": false,
+    "ps_application_rebuilt": true,
+    "state": "OFFLINE_CANDIDATE_NOT_BOUND_TO_CURRENT_BOARD_RUN"
+  },
+  "prior_round9_deliverables": [
+    {
+      "name": "第9轮_参赛模板时钟口径与验收准备版_20261027.docx",
+      "bytes": 1966023,
+      "sha256": "dc6a88ee6364c8dda291ee05dcde07ac8dcf979bf043821d49d1d89c3eaa1a7b",
+      "source_locator": "${PROJECT_ROOT}/第9轮_参赛模板时钟口径与验收准备版_20261027.docx",
+      "included_in_documentation_upload": false
+    },
+    {
+      "name": "第9轮_参赛综合正文_20261027.md",
+      "bytes": 38786,
+      "sha256": "ceaffa4027b3f8b657bc868ef89f11f0359eb40ea632d9ae4696a9326cf94ec3",
+      "source_locator": "${PROJECT_ROOT}/第9轮_参赛综合正文_20261027.md",
+      "included_in_documentation_upload": false
+    },
+    {
+      "name": "第9轮_累计事实指标与待确认清单_20261027.md",
+      "bytes": 89473,
+      "sha256": "d2a7acb2bf69269aaa5e0d2ce015269898aff83cd8dca7ac355ed04e68ef1bf2",
+      "source_locator": "${PROJECT_ROOT}/第9轮_累计事实指标与待确认清单_20261027.md",
+      "included_in_documentation_upload": false
+    },
+    {
+      "name": "第9轮_上板验收准备与操作指南_20261027.md",
+      "bytes": 23245,
+      "sha256": "b98954f5f5963ab1c8578776cdcd1cfd00749bb186f1b1de001eb0e7c33799df",
+      "source_locator": "${PROJECT_ROOT}/第9轮_上板验收准备与操作指南_20261027.md",
+      "included_in_documentation_upload": false
+    },
+    {
+      "name": "第9轮_离线验收工具与候选附件_20261027.zip",
+      "bytes": 6156923,
+      "sha256": "38be6dc5c9213c378b96ba90ceca699a0fee105bc534ccb8c95b2f4f194b6190",
+      "source_locator": "${PROJECT_ROOT}/第9轮_离线验收工具与候选附件_20261027.zip",
+      "included_in_documentation_upload": false
+    }
+  ],
+  "source_bindings": [
+    {
+      "id": "round9_cumulative",
+      "locator": "${WORKSPACE}/work/round9/updated_tables.json",
+      "bytes": 614904,
+      "sha256": "9a247792c15e53c9162515d2243bc5f183d3a75c6242a3b2f786811dbe4545de"
+    },
+    {
+      "id": "round9_delivery",
+      "locator": "${WORKSPACE}/work/round9_delivery_manifest_20261027.json",
+      "bytes": 2313,
+      "sha256": "1fe1201dc0de81697a960bb97a72136649ca58d684ee09798fa2f32344df6693"
+    },
+    {
+      "id": "round8_release",
+      "locator": "${WORKSPACE}/work/round8/build_release_summary.json",
+      "bytes": 13071,
+      "sha256": "8c8f2eb01807a22448896b1b5ff657dbb104b9e35d9271308029ef880b464105"
+    },
+    {
+      "id": "round9_document_qa",
+      "locator": "${WORKSPACE}/work/round9/final_qa.json",
+      "bytes": 1729,
+      "sha256": "80d00407ff141f4068c8510942d3f7e520f7aea1d398fae160c06ac092443142"
+    },
+    {
+      "id": "round9_tool_review",
+      "locator": "${WORKSPACE}/work/round9/independent_tool_review.json",
+      "bytes": 8995,
+      "sha256": "d2b5ea431adc8e514d84b312a53d0c8a1bceff8d4abf1abcf2fb0e3058848433"
+    },
+    {
+      "id": "round9_hardware_readiness",
+      "locator": "${WORKSPACE}/work/round9/hardware_readiness/hardware_readiness_review.json",
+      "bytes": 11654,
+      "sha256": "9f78ca9cd21b01d39f8c18defe4a5cf6110bad100d59e758ac54897a731ec8d1"
+    }
+  ],
+  "r10_document_binding": {
+    "status": "FINAL_DOCUMENT_QA_PASSED",
+    "repository_path": "docs/competition-report.docx",
+    "body_markdown_repository_path": "docs/competition-report.md",
+    "sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1",
+    "pages": 24,
+    "figures": 16,
+    "tables": 9,
+    "references": 9,
+    "citations": 11,
+    "heading_navigation_check": {
+      "status": "PASS",
+      "native_word_verified": true,
+      "heading_count": 46,
+      "levels": {
+        "1": 6,
+        "2": 14,
+        "3": 14,
+        "4": 12
+      },
+      "visible_numbering": "Fixed hierarchical text; no inherited list counters"
+    },
+    "full_render_qa": {
+      "status": "PASS",
+      "all_pages_opened_original_png": true,
+      "page_count": 24,
+      "repository_summary": "verification/document-qa.json"
+    }
+  },
+  "github_delivery": {
+    "repository_url": "https://github.com/lihuatian548/fpga-16channel-competition-handoff",
+    "visibility": "private",
+    "commit_binding": "Use the commit containing this file; external upload receipt records the exact SHA",
+    "identity_manifest": "handoff/file-manifest.json"
+  },
+  "note": "The R9 bundle locators refer to the previous offline archive; that archive and its binaries are not duplicated in the documentation upload."
+}

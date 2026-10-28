@@ -1,0 +1,199 @@
+{
+  "date_client": "2026-10-28",
+  "word_sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1",
+  "figure_count": 16,
+  "redrawn_or_relabeled": 7,
+  "original_pixel_images_preserved": 9,
+  "figures": [
+    {
+      "id": "2-1",
+      "caption": "图2-1 主采集数据路径与独立温度调理支路",
+      "png": "assets/figures/figure_2-1.png",
+      "sha256": "168e78383fa423927df46c5147293d70513deb4db0661758ee636b7240c38b12",
+      "pixels": [
+        3360,
+        1800
+      ],
+      "source_docx_member": "word/media/image7.png",
+      "svg": "assets/figures/figure_2-1.svg",
+      "svg_sha256": "7cd9c74c56a5384f45595a457eba2abe8d95709fb2123d05c28bc3ce3b7ce8c7"
+    },
+    {
+      "id": "2-2",
+      "caption": "图2-2 主要电源与ADC参考连接",
+      "png": "assets/figures/figure_2-2.png",
+      "sha256": "67e1865181ee6e1bf20f5c6436a68a42f27ca12b1399600612e689db0f1a3d9a",
+      "pixels": [
+        3600,
+        3060
+      ],
+      "source_docx_member": "word/media/image12.png",
+      "svg": "assets/figures/figure_2-2.svg",
+      "svg_sha256": "bff96f5b63879e95534abd949be1fd676c6e96df812ca8c6f011f0472ce4fa42"
+    },
+    {
+      "id": "2-3",
+      "caption": "图2-3 恒流激励电路（研制报告原图）",
+      "png": "assets/figures/figure_2-3.png",
+      "sha256": "fecab7b98bfdfae63bf2575fcdeccfb9c951bba7f1b2e96e356d54232c9d1916",
+      "pixels": [
+        710,
+        560
+      ],
+      "source_docx_member": "word/media/round3_2.png"
+    },
+    {
+      "id": "2-4",
+      "caption": "图2-4 两级二阶低通电路（研制报告原图）",
+      "png": "assets/figures/figure_2-4.png",
+      "sha256": "e04e9c161395c452de7d4990287b1eff3ce39559e60c60cfd65f6a884830f280",
+      "pixels": [
+        1511,
+        592
+      ],
+      "source_docx_member": "word/media/round3_3.png"
+    },
+    {
+      "id": "2-5",
+      "caption": "图2-5 单端转差分电路（研制报告原图）",
+      "png": "assets/figures/figure_2-5.png",
+      "sha256": "6570f5a6e50b1de76e237670d21bdb9ced8964d3bd4caf533176222166a946bd",
+      "pixels": [
+        978,
+        458
+      ],
+      "source_docx_member": "word/media/round3_4.png"
+    },
+    {
+      "id": "2-6",
+      "caption": "图2-6 双AD7768与PL信号连接",
+      "png": "assets/figures/figure_2-6.png",
+      "sha256": "d4f5beacc2d40adec3d617f8a2b44c8ce93ef8b8f6d9ac373c8c6aa726526abb",
+      "pixels": [
+        3360,
+        2060
+      ],
+      "source_docx_member": "word/media/image13.png",
+      "svg": "assets/figures/figure_2-6.svg",
+      "svg_sha256": "28e8fda1fbe6f414859cbff5ce1119da2e75557ee0b7da3e64e0db5d1bd283e0"
+    },
+    {
+      "id": "2-7",
+      "caption": "图2-7 独立RTD调理与复用测量连接（据已核原理图绘制）",
+      "png": "assets/figures/figure_2-7.png",
+      "sha256": "d031bcc75eb118a8096fd08a25cce16e01945f1aa083a6a100018388474a87ed",
+      "pixels": [
+        1800,
+        1180
+      ],
+      "source_docx_member": "word/media/image14.png"
+    },
+    {
+      "id": "2-8",
+      "caption": "图2-8 上位机操作界面",
+      "png": "assets/figures/figure_2-8.png",
+      "sha256": "438a5e0e633db9a4c9f5eba8c3b2ca19776973997d36df359a857e44a86c1ba6",
+      "pixels": [
+        1918,
+        1031
+      ],
+      "source_docx_member": "word/media/round3_5.png"
+    },
+    {
+      "id": "2-9",
+      "caption": "图2-9 双ADC串行接收与数据交接流程",
+      "png": "assets/figures/figure_2-9.png",
+      "sha256": "4f5e327d04fc4f7aab97219be8b6845ec1e087888413127dc6084dd734fdacd5",
+      "pixels": [
+        3360,
+        2200
+      ],
+      "source_docx_member": "word/media/image8.png",
+      "svg": "assets/figures/figure_2-9.svg",
+      "svg_sha256": "08106b97860d181fc284fb43ba48154d8a4c393cb3e6a4d50bffaf2bc1d04dcd"
+    },
+    {
+      "id": "2-10",
+      "caption": "图2-10 FIFO至DDR的分块写入与半区通知",
+      "png": "assets/figures/figure_2-10.png",
+      "sha256": "b6c9bdc92da073e19633cc3e32e82d3f458b6a4d3e0802155df58f400ab0eff3",
+      "pixels": [
+        3360,
+        1420
+      ],
+      "source_docx_member": "word/media/image9.png",
+      "svg": "assets/figures/figure_2-10.svg",
+      "svg_sha256": "e7c2b79d2bfa055761467a9bb04c063f00fbc8942f7a15ce31f2ccfd7bd03afa"
+    },
+    {
+      "id": "2-11",
+      "caption": "图2-11 6236A命令处理与半区数据上传流程",
+      "png": "assets/figures/figure_2-11.png",
+      "sha256": "441b731296c47e62da7123aba79a87a626cd3a05e4014a047adbadd41220ec60",
+      "pixels": [
+        3360,
+        2500
+      ],
+      "source_docx_member": "word/media/image10.png",
+      "svg": "assets/figures/figure_2-11.svg",
+      "svg_sha256": "bff07fad2e0fda72389a207b026d139d05c1ae5305129b91123651d0812be003"
+    },
+    {
+      "id": "2-12",
+      "caption": "图2-12 UDP应用载荷分组与字节偏移",
+      "png": "assets/figures/figure_2-12.png",
+      "sha256": "6bc1f09aae0fef1ee194de57d929ce49161d7bd4b09007874f0cf62bbfcd0e2a",
+      "pixels": [
+        3360,
+        1400
+      ],
+      "source_docx_member": "word/media/image15.png",
+      "svg": "assets/figures/figure_2-12.svg",
+      "svg_sha256": "9ef9f1d203e7638ad361763eebe613347a932d02748bc0b8a26552915a298351"
+    },
+    {
+      "id": "3-1",
+      "caption": "图3-1 名义1kHz输入的研制阶段分析界面",
+      "png": "assets/figures/figure_3-1.png",
+      "sha256": "5e2e0453844e5e31595dfcbcce63d3a255bd52399f5da5311b0192500a66600d",
+      "pixels": [
+        1544,
+        847
+      ],
+      "source_docx_member": "word/media/image2.png"
+    },
+    {
+      "id": "3-2",
+      "caption": "图3-2 IEPE传感器敲击响应界面",
+      "png": "assets/figures/figure_3-2.png",
+      "sha256": "dd3916290066457de50052f88e5836a513123e3689b3c3784b6061b7a84d98b8",
+      "pixels": [
+        1269,
+        464
+      ],
+      "source_docx_member": "word/media/image4.png"
+    },
+    {
+      "id": "3-3",
+      "caption": "图3-3 压力传感器按压响应界面",
+      "png": "assets/figures/figure_3-3.png",
+      "sha256": "5ab39bed8e6687f5a1476dfbb22ab8f6dfd9064449ac59e747f9a5fd18fe44a6",
+      "pixels": [
+        1269,
+        462
+      ],
+      "source_docx_member": "word/media/image5.png"
+    },
+    {
+      "id": "3-4",
+      "caption": "图3-4 研制阶段UDP上传记录",
+      "png": "assets/figures/figure_3-4.png",
+      "sha256": "e34a64cc7e2cc5ae990791ba0860af04093a98a4da7beb3620d395fe5dda4f5f",
+      "pixels": [
+        877,
+        253
+      ],
+      "source_docx_member": "word/media/image6.png"
+    }
+  ]
+}

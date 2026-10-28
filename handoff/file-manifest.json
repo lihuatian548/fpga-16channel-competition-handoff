@@ -1,0 +1,192 @@
+{
+  "date_client": "2026-10-28",
+  "word_sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1",
+  "scope": "This manifest lists all staged content except itself to avoid recursive hashing",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 86,
+      "sha256": "c37308c3535cdbe3a024ff2eaa0025f48f61aaec9bf07552a14b475311b38ace"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 59,
+      "sha256": "af268401349ef481c6906390f1ea1eee624b36d6624ae1fac0c3840769433a54"
+    },
+    {
+      "path": "assets/figures/figure_2-1.png",
+      "bytes": 279089,
+      "sha256": "168e78383fa423927df46c5147293d70513deb4db0661758ee636b7240c38b12"
+    },
+    {
+      "path": "assets/figures/figure_2-1.svg",
+      "bytes": 6342,
+      "sha256": "7cd9c74c56a5384f45595a457eba2abe8d95709fb2123d05c28bc3ce3b7ce8c7"
+    },
+    {
+      "path": "assets/figures/figure_2-10.png",
+      "bytes": 237831,
+      "sha256": "b6c9bdc92da073e19633cc3e32e82d3f458b6a4d3e0802155df58f400ab0eff3"
+    },
+    {
+      "path": "assets/figures/figure_2-10.svg",
+      "bytes": 4429,
+      "sha256": "e7c2b79d2bfa055761467a9bb04c063f00fbc8942f7a15ce31f2ccfd7bd03afa"
+    },
+    {
+      "path": "assets/figures/figure_2-11.png",
+      "bytes": 449995,
+      "sha256": "441b731296c47e62da7123aba79a87a626cd3a05e4014a047adbadd41220ec60"
+    },
+    {
+      "path": "assets/figures/figure_2-11.svg",
+      "bytes": 8206,
+      "sha256": "bff07fad2e0fda72389a207b026d139d05c1ae5305129b91123651d0812be003"
+    },
+    {
+      "path": "assets/figures/figure_2-12.png",
+      "bytes": 219182,
+      "sha256": "6bc1f09aae0fef1ee194de57d929ce49161d7bd4b09007874f0cf62bbfcd0e2a"
+    },
+    {
+      "path": "assets/figures/figure_2-12.svg",
+      "bytes": 4898,
+      "sha256": "9ef9f1d203e7638ad361763eebe613347a932d02748bc0b8a26552915a298351"
+    },
+    {
+      "path": "assets/figures/figure_2-2.png",
+      "bytes": 585752,
+      "sha256": "67e1865181ee6e1bf20f5c6436a68a42f27ca12b1399600612e689db0f1a3d9a"
+    },
+    {
+      "path": "assets/figures/figure_2-2.svg",
+      "bytes": 10739,
+      "sha256": "bff96f5b63879e95534abd949be1fd676c6e96df812ca8c6f011f0472ce4fa42"
+    },
+    {
+      "path": "assets/figures/figure_2-3.png",
+      "bytes": 19272,
+      "sha256": "fecab7b98bfdfae63bf2575fcdeccfb9c951bba7f1b2e96e356d54232c9d1916"
+    },
+    {
+      "path": "assets/figures/figure_2-4.png",
+      "bytes": 36794,
+      "sha256": "e04e9c161395c452de7d4990287b1eff3ce39559e60c60cfd65f6a884830f280"
+    },
+    {
+      "path": "assets/figures/figure_2-5.png",
+      "bytes": 36957,
+      "sha256": "6570f5a6e50b1de76e237670d21bdb9ced8964d3bd4caf533176222166a946bd"
+    },
+    {
+      "path": "assets/figures/figure_2-6.png",
+      "bytes": 391047,
+      "sha256": "d4f5beacc2d40adec3d617f8a2b44c8ce93ef8b8f6d9ac373c8c6aa726526abb"
+    },
+    {
+      "path": "assets/figures/figure_2-6.svg",
+      "bytes": 6984,
+      "sha256": "28e8fda1fbe6f414859cbff5ce1119da2e75557ee0b7da3e64e0db5d1bd283e0"
+    },
+    {
+      "path": "assets/figures/figure_2-7.png",
+      "bytes": 143719,
+      "sha256": "d031bcc75eb118a8096fd08a25cce16e01945f1aa083a6a100018388474a87ed"
+    },
+    {
+      "path": "assets/figures/figure_2-8.png",
+      "bytes": 61176,
+      "sha256": "438a5e0e633db9a4c9f5eba8c3b2ca19776973997d36df359a857e44a86c1ba6"
+    },
+    {
+      "path": "assets/figures/figure_2-9.png",
+      "bytes": 357441,
+      "sha256": "4f5e327d04fc4f7aab97219be8b6845ec1e087888413127dc6084dd734fdacd5"
+    },
+    {
+      "path": "assets/figures/figure_2-9.svg",
+      "bytes": 6786,
+      "sha256": "08106b97860d181fc284fb43ba48154d8a4c393cb3e6a4d50bffaf2bc1d04dcd"
+    },
+    {
+      "path": "assets/figures/figure_3-1.png",
+      "bytes": 55363,
+      "sha256": "5e2e0453844e5e31595dfcbcce63d3a255bd52399f5da5311b0192500a66600d"
+    },
+    {
+      "path": "assets/figures/figure_3-2.png",
+      "bytes": 115571,
+      "sha256": "dd3916290066457de50052f88e5836a513123e3689b3c3784b6061b7a84d98b8"
+    },
+    {
+      "path": "assets/figures/figure_3-3.png",
+      "bytes": 116869,
+      "sha256": "5ab39bed8e6687f5a1476dfbb22ab8f6dfd9064449ac59e747f9a5fd18fe44a6"
+    },
+    {
+      "path": "assets/figures/figure_3-4.png",
+      "bytes": 32752,
+      "sha256": "e34a64cc7e2cc5ae990791ba0860af04093a98a4da7beb3620d395fe5dda4f5f"
+    },
+    {
+      "path": "assets/figures/source-index.json",
+      "bytes": 6736,
+      "sha256": "605585592f9acc3f22f2cdf7e689698dc509afa86551d2ad39434128c79eea67"
+    },
+    {
+      "path": "docs/competition-report.docx",
+      "bytes": 3012071,
+      "sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1"
+    },
+    {
+      "path": "docs/competition-report.md",
+      "bytes": 30615,
+      "sha256": "4a7cba1d29ea31cf49146875d6797d72e0e9635f244a7f6f74fb45ec13a0f221"
+    },
+    {
+      "path": "handoff/artifact-index.json",
+      "bytes": 7912,
+      "sha256": "0e744c01094f0be080c3de2cd774a9bfbd0da6a83c0eada3ebeb4d0e1dad8e16"
+    },
+    {
+      "path": "handoff/materials.md",
+      "bytes": 5252,
+      "sha256": "05f29c2c788d3fc2c90b233c7abb11af3736be7e9ade3b62add1e5643e68d779"
+    },
+    {
+      "path": "handoff/project-facts.json",
+      "bytes": 258949,
+      "sha256": "468d64796171cd5bbc66a275279ad69cb02b5a4aeb0a051c4244fd9cb1b4812f"
+    },
+    {
+      "path": "handoff/README.md",
+      "bytes": 8684,
+      "sha256": "58d4f88b3c61e3d8b7399b066f375d45252aa096ee9a1b7ee202386ced2ba555"
+    },
+    {
+      "path": "handoff/source-map.example.json",
+      "bytes": 560,
+      "sha256": "ad847086a7cc96e6985f836e1e3ec2583b242d5b1e25e8dbca9df21f483fe7ae"
+    },
+    {
+      "path": "handoff/technical-status.md",
+      "bytes": 22611,
+      "sha256": "59d6f90c33118d4f72d431a44fc6dad5317ae53b4882d1a76c728294c98ead02"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1214,
+      "sha256": "0053f365e00496a624e6f28e1d4e2cc50de6ae3710baf1f6b11f1a904514a0af"
+    },
+    {
+      "path": "verification/document-qa.json",
+      "bytes": 1677,
+      "sha256": "0b626bb826619fa7083cf61d9b052ab2de3fd59fe0fc41cb4de68723f087edcd"
+    },
+    {
+      "path": "verification/heading-outline.json",
+      "bytes": 5338,
+      "sha256": "e29e6c7d77a05c983815f3389c0a6b82878d822e849deb306eb19de861027da7"
+    }
+  ]
+}

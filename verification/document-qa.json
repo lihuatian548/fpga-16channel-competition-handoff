@@ -1,0 +1,67 @@
+{
+  "date_client": "2026-10-28",
+  "status": "PASS",
+  "version": "v2",
+  "sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1",
+  "source_sha256": "dc6a88ee6364c8dda291ee05dcde07ac8dcf979bf043821d49d1d89c3eaa1a7b",
+  "pages": 24,
+  "figures": 16,
+  "figures_redrawn_or_relabeled": 7,
+  "source_figure_pixels_preserved": 9,
+  "tables": 9,
+  "numbered_tables": 8,
+  "references": 9,
+  "superscript_citations": 11,
+  "counts": {
+    "abstract": {
+      "characters": 504,
+      "limit": 800
+    },
+    "functions": {
+      "characters": 214,
+      "limit": 400
+    },
+    "applications": {
+      "characters": 186,
+      "limit": 400
+    },
+    "features": {
+      "characters": 246,
+      "limit": 400
+    },
+    "metrics": {
+      "characters": 140,
+      "limit": 200
+    },
+    "innovation": {
+      "characters": 141,
+      "limit": 200
+    },
+    "process": {
+      "characters": 113,
+      "limit": 200
+    },
+    "future": {
+      "characters": 184,
+      "limit": 300
+    },
+    "experience": {
+      "characters": 535,
+      "limit": 1000
+    }
+  },
+  "heading_count": 46,
+  "heading_levels": {
+    "1": 6,
+    "2": 14,
+    "3": 14,
+    "4": 12
+  },
+  "native_word_navigation_verified": true,
+  "visible_hierarchy_numbering_verified": true,
+  "all_24_final_page_pngs_opened_original_detail": true,
+  "public_issue_narrative_scan": "PASS",
+  "privacy_scan": "PASS",
+  "prior_header_footer_numbering_relationships_and_geometry_preserved": true,
+  "scope": "Presentation, factual scope, image fidelity, native Word navigation, and full visual QA; no engineering/board acceptance"
+}

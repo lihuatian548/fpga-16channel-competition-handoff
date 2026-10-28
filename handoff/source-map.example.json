@@ -1,0 +1,17 @@
+{
+  "schema": "fpga16-local-paths-v1",
+  "purpose": "Fill locally; save as LOCAL_PATHS.local.json and keep untracked",
+  "paths": {
+    "PROJECT_ROOT": null,
+    "COMPETITION_TEMPLATE": null,
+    "VIVADO_PROJECT": null,
+    "PCB_PROJECT": null,
+    "PC_YE7600": null,
+    "PC_CONFIG": null,
+    "PC_BACKUP": null,
+    "WORKSPACE": null,
+    "XILINX_ROOT": null,
+    "FOUR_CHANNEL_REFERENCE": null
+  },
+  "notes": "Absolute local locations and any runtime/account material stay on the local workstation; do not add credentials to this file."
+}
