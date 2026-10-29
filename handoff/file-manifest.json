@@ -9,6 +9,16 @@
       "sha256": "c37308c3535cdbe3a024ff2eaa0025f48f61aaec9bf07552a14b475311b38ace"
     },
     {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "bytes": 248,
+      "sha256": "91dc0fa2c009433492ab6895511c879f4900d984d2ec31a79a444bf9ac10d6d7"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/material-upload.md",
+      "bytes": 542,
+      "sha256": "2e0603647924130be3faece854873210bd38bd1e660fc85d065e23ac7a83039c"
+    },
+    {
       "path": ".gitignore",
       "bytes": 59,
       "sha256": "af268401349ef481c6906390f1ea1eee624b36d6624ae1fac0c3840769433a54"
@@ -134,6 +144,11 @@
       "sha256": "605585592f9acc3f22f2cdf7e689698dc509afa86551d2ad39434128c79eea67"
     },
     {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1528,
+      "sha256": "51dc2254398f3097d382f1a385e8bed70a8d9d8db9faf5dd7bb37e339bd64ffb"
+    },
+    {
       "path": "docs/competition-report.docx",
       "bytes": 3012071,
       "sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1"
@@ -175,8 +190,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1223,
-      "sha256": "d872e0fc67909bca9408a9c2308c3c63c536e8cde200da5155b1f4b6d862aa93"
+      "bytes": 1413,
+      "sha256": "6e8adefe82f4b73d24eb394650d527b8aadc44508605cfe8188f1790f74a9327"
     },
     {
       "path": "verification/document-qa.json",

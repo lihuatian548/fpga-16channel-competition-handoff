@@ -6,6 +6,8 @@
 - [浏览图文正文](docs/competition-report.md)
 - [阅读项目交接说明](handoff/README.md)
 - [查看版本与文件索引](handoff/artifact-index.json)
+- [上传或补充项目资料](https://github.com/lihuatian548/fpga-16channel-competition-handoff/issues/new?template=material-upload.md)
+- [文件上传与协作说明](CONTRIBUTING.md)
 
 参赛稿共24页、16幅图、9张表，包含46项四级标题。用Word打开后，可在“视图—导航窗格”中展开章节和模块。正文按系统架构、电路、软件、研制资料和工程成果组织，指标保留设计目标、配置推导和器件标称等口径。
 
