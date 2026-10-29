@@ -1397,7 +1397,7 @@
     ],
     [
       "S25",
-      "${LOCAL_DRIVE_C}/Users/user/AppData/Local/Temp/codex-clipboard-1f36e2c9-1863-41c3-b247-4136b2937624.png",
+      "${USER_TEMP}/codex-clipboard-1f36e2c9-1863-41c3-b247-4136b2937624.png",
       "用户提供8可见通道空波形截图；原图只在Word按比例插入"
     ],
     [
@@ -6405,9 +6405,10 @@
   },
   "github_delivery": {
     "repository_url": "https://github.com/lihuatian548/fpga-16channel-competition-handoff",
-    "visibility": "private",
+    "visibility": "public",
     "commit_binding": "Use the commit containing this file; external upload receipt records the exact SHA",
-    "identity_manifest": "handoff/file-manifest.json"
+    "identity_manifest": "handoff/file-manifest.json",
+    "visibility_change_date_client": "2026-10-29"
   },
   "new_board_measurements": false,
   "engineering_changed_by_this_handoff_builder": false,

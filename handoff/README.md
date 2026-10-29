@@ -84,4 +84,4 @@
 
 新版为24页、16幅图、9张表、9条参考文献和11处正文引用。标题46项分为6/14/14/12四级，已用本机Word核验导航。SHA256：`d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1`。
 
-仓库：[lihuatian548/fpga-16channel-competition-handoff](https://github.com/lihuatian548/fpga-16channel-competition-handoff)，私有。文件内容与对应提交的关系见本目录file-manifest.json及GitHub提交历史。
+仓库：[lihuatian548/fpga-16channel-competition-handoff](https://github.com/lihuatian548/fpga-16channel-competition-handoff)，公开。文件内容与对应提交的关系见本目录file-manifest.json及GitHub提交历史。

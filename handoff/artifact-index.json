@@ -179,9 +179,10 @@
   },
   "github_delivery": {
     "repository_url": "https://github.com/lihuatian548/fpga-16channel-competition-handoff",
-    "visibility": "private",
+    "visibility": "public",
     "commit_binding": "Use the commit containing this file; external upload receipt records the exact SHA",
-    "identity_manifest": "handoff/file-manifest.json"
+    "identity_manifest": "handoff/file-manifest.json",
+    "visibility_change_date_client": "2026-10-29"
   },
   "note": "The R9 bundle locators refer to the previous offline archive; that archive and its binaries are not duplicated in the documentation upload."
 }

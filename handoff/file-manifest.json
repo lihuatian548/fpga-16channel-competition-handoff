@@ -1,5 +1,5 @@
 {
-  "date_client": "2026-10-28",
+  "date_client": "2026-10-29",
   "word_sha256": "d1451a772491d329e9d8b03a1bcb8f845a93473cf50a6f5ef70963b138bb0dd1",
   "scope": "This manifest lists all staged content except itself to avoid recursive hashing",
   "files": [
@@ -145,8 +145,8 @@
     },
     {
       "path": "handoff/artifact-index.json",
-      "bytes": 7912,
-      "sha256": "0e744c01094f0be080c3de2cd774a9bfbd0da6a83c0eada3ebeb4d0e1dad8e16"
+      "bytes": 7963,
+      "sha256": "53bcd57a7bbbe78674bfcd10a478c11621e83cbfe5fb9741d188b7a016f93456"
     },
     {
       "path": "handoff/materials.md",
@@ -155,13 +155,13 @@
     },
     {
       "path": "handoff/project-facts.json",
-      "bytes": 258949,
-      "sha256": "468d64796171cd5bbc66a275279ad69cb02b5a4aeb0a051c4244fd9cb1b4812f"
+      "bytes": 258966,
+      "sha256": "56152351452ea5141fcbc131a2d237aeb3e93f56a8f72b07b6775677ce2cdd0a"
     },
     {
       "path": "handoff/README.md",
       "bytes": 8684,
-      "sha256": "58d4f88b3c61e3d8b7399b066f375d45252aa096ee9a1b7ee202386ced2ba555"
+      "sha256": "38b0c4ddc40eaf712078d06d692a13254796b99adf906e50f24f335837c57033"
     },
     {
       "path": "handoff/source-map.example.json",
@@ -175,8 +175,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1214,
-      "sha256": "0053f365e00496a624e6f28e1d4e2cc50de6ae3710baf1f6b11f1a904514a0af"
+      "bytes": 1223,
+      "sha256": "d872e0fc67909bca9408a9c2308c3c63c536e8cde200da5155b1f4b6d862aa93"
     },
     {
       "path": "verification/document-qa.json",
